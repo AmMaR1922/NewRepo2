@@ -1,0 +1,6 @@
+@moshkelt_l_Nasa_HostAddress = http://localhost:5267
+
+GET {{moshkelt_l_Nasa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
